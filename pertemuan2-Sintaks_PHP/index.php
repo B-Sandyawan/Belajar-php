@@ -21,7 +21,7 @@ komentar
 // //variabel adalah tempat untuk menyimpan nilai
 // //variabel di awali dengan tanda $
 
-// $nama = "Sandhika";
+$nama = "Sandhika";
 // // variable tidak boleh diawali dengan angka, tapi boleh mengandung angka
 // // variable tidak boleh mengandung spasi, gunakan underscore untuk mengganti spasi
 // $nama_lengkap = "Sandhika Galih";
