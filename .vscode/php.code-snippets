@@ -1,0 +1,10 @@
+{
+  "PHP echo shorthand": {
+    "scope": "php,html",
+    "prefix": "phpp",
+    "body": [
+      "<?= $1; ?>"
+    ],
+    "description": "Print PHP value with echo shorthand"
+  }
+}
